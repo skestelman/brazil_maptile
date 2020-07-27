@@ -29,7 +29,7 @@ maptile_install using "https://skestelman.github.io/code/brazil_arranjo_maptile.
 # Microregion maps 
 To install the microregions file, type 
 ```
-maptile_install using "https://skestelman.github.io/code/brazil_microregions_maptile.zip"
+maptile_install using "https://skestelman.github.io/code/brazil_microregion_maptile.zip"
 ```
 
 Thanks to [_Diana Goldemberg_](https://github.com/dianagold) for her help.
